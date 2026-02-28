@@ -1,2 +1,2 @@
 # odinproject
-a backup of my odin project assignments
+A backup of my odin project assignments.
